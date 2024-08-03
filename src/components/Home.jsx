@@ -6,7 +6,7 @@ const Home = () => {
     <div>
       <h1>Home</h1>
       <h2>Count: {count}</h2>
-      <button onClick={()=>setCount(count+1)}>Add 1</button>
+      <button onClick={()=>setCount(count+1)}>Add</button>
     </div>
   );
 };
