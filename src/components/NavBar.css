@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color:aqua;
+    margin: 0px;
+    padding: 10px;
+    color: azure;
+}
+.list{
+    text-decoration: none;
+}
